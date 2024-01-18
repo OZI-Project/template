@@ -1,4 +1,4 @@
-# GitHub repository template
+# GitHub Repository Template
 
 This should serve as the skeleton for most of the repos in the OZI Project.
 
