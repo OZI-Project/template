@@ -1,5 +1,5 @@
 =============================================================================
-The OZI Project is under the Apache License 2.0 with LLVM Exceptions:
+This software is licensed under the Apache License 2.0 with LLVM Exceptions:
 =============================================================================
 
                                  Apache License
